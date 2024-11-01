@@ -1,0 +1,22 @@
+{
+    "Best score": {
+        "Best Timeout": "default",
+        "Accuracy": 0.936926840817615,
+        "F1 Score": 0.8028120279604372,
+        "Precision": 0.8259149617757391,
+        "Recall": 0.8006076205444259
+    },
+    "Worst score": {
+        "Worst Timeout": 60,
+        "Accuracy": 0.9292758550699002,
+        "F1 Score": 0.7741585475353988,
+        "Precision": 0.7849664715900773,
+        "Recall": 0.7964777652169939
+    },
+    "Difference": {
+        "Accuracy": 0.0076509857477148335,
+        "F1 Score": 2.8653480425038347,
+        "Precision": 4.094849018566182,
+        "Recall": 0.41298553274320415
+    }
+}
