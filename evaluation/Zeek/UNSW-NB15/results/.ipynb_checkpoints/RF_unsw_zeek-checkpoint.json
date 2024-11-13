@@ -1,0 +1,38 @@
+{
+    "Best score": {
+        "Best Timeout": "default",
+        "Mean Scores (Best)": {
+            "f1Mean": 0.45709872311529576,
+            "accMean": 0.9721313506514331,
+            "recMean": 0.46088931841555025,
+            "precMean": 0.563145976732896
+        },
+        "Std Scores (Best)": {
+            "f1Std": 0.09458164082617261,
+            "accStd": 0.007988089252538525,
+            "recStd": 0.13359655805536133,
+            "precStd": 0.08698361908514503
+        }
+    },
+    "Worst score": {
+        "Worst Timeout": 0.5,
+        "Mean Scores (Worst)": {
+            "f1Mean": 0.44089404167461616,
+            "accMean": 0.9723172546054464,
+            "recMean": 0.45139189543512404,
+            "precMean": 0.5363973338866368
+        },
+        "Std Scores (Worst)": {
+            "f1Std": 0.10123122879850557,
+            "accStd": 0.007854635512958638,
+            "recStd": 0.12760667806131457,
+            "precStd": 0.09976752676545028
+        }
+    },
+    "Difference": {
+        "Accuracy": -0.018590395401330007,
+        "F1 Score": 1.6204681440679602,
+        "Precision": 2.674864284625922,
+        "Recall": 0.9497422980426218
+    }
+}
