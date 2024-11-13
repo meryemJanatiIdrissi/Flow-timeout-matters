@@ -11,7 +11,6 @@ This repository provides the python implementation for our paper 'Flow timeout m
 - [Data labeling](#data-labeling)
 - [Implementation details](#implementation-details)
 - [Distributed learning in a multiple timeouts environment](#distributed-learning-in-a-multiple-timeouts-environment)
-Distributed learning in a multiple timeouts environment
 - [Visualization and Results](#visualization-and-results)
 - [Usage](#usage)
 - [License](#license)
